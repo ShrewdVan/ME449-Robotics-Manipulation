@@ -6,4 +6,4 @@ Description of the assignment 2 can be found at here: [Assignment 2](https://had
 
 Description of the assignment 3 can be found at here: [Assignment 3](https://hades.mech.northwestern.edu/index.php/ME_449_Assignment_3)
 
-Description of the Capstone project can be found at here: [Capstone Project](./Capstone/README)
+Description of the Capstone project can be found at here: [Capstone Project](./Capstone/README.pdf)
