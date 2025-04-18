@@ -1,0 +1,3 @@
+>> python3 Capstone_with_limit.py | tee log_file.txt
+Running the Script
+Script executed successfully.
